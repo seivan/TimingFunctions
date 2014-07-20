@@ -122,8 +122,6 @@ twitter: [@seivanheidari](https://twitter.com/seivanheidari)
 
 ***
 
-### Credit
-[Sean Heber](http://twitter.com/BigZaphod) for the Chameleon project - We have different implementations but the idea is the same. 
 
 ### License
 
